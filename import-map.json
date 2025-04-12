@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "./imageProcessor.js": "./imageProcessor.js"
+  }
+}
+
